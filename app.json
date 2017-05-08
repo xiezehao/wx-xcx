@@ -1,5 +1,8 @@
 {
   "pages":[
+    "pages/canvas/canvas",
+    "pages/map/map",
+    "pages/video/video",
     "pages/image/image",
     "pages/audio/audio",
     "pages/form/form",
