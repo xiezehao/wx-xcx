@@ -1,0 +1,2 @@
+<!--location.wxml-->
+<text>wgs84:\n{{latitude}}\n{{longitude}}\n{{speed}}\n{{accuracy}}</text>

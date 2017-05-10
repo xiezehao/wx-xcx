@@ -1,0 +1,2 @@
+<!--network.wxml-->
+<text>{{networkType}}{{isConnected}}</text>

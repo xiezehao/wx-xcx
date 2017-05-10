@@ -1,0 +1,4 @@
+<!--changeImage.wxml-->
+<button bindtap="changeImage">{{btnStr}}</button>
+<view>{{paths}}</view>
+<image src="{{paths}}"></image>
