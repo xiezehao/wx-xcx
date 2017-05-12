@@ -1,0 +1,2 @@
+<button bindtap="navigateTo">navigateTo</button>
+<button bindtap="redirectTo">redirectTo</button>

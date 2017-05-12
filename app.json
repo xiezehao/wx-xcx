@@ -1,5 +1,8 @@
 {
   "pages": [
+    "pages/navigate/navigate",
+    "pages/navigate2/navigate2",
+    "pages/pullDownRefresh/pullDownRefresh",
     "pages/toast/toast",
     "pages/network/network",
     "pages/systemInfo/systemInfo",
@@ -34,7 +37,8 @@
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
   },
   "tabBar": {
     "list": [

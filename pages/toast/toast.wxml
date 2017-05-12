@@ -1,2 +1,5 @@
 <!--pages/toast/toast.wxml-->
 <button bindtap="btn">toast</button>
+<button bindtap="btn_loading">toast loading</button>
+<button bindtap="btn_modal">toast modal</button>
+<button bindtap="btn_sheet">toast sheet</button>
